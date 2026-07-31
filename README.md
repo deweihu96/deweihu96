@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dewei 👋
 
-<!--
-**deweihu96/deweihu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Fellow in Bioinformatics & Network Biology at the Novo Nordisk Foundation Center for Basic Metabolic Research, University of Copenhagen.
 
-Here are some ideas to get you started:
+- 🧬 My PhD is on **representation learning for biological networks and multi-omics integration**, supervised by [Simon Rasmussen](https://scholar.google.com/citations?user=fh52UsQAAAAJ) and [Lars Juhl Jensen](https://scholar.google.com/citations?user=zXAyIo0AAAAJ).
+- 🕸️ I build cross-species protein embeddings on top of the [STRING](https://string-db.org) database.
+- 📊 I integrate metabolomics, proteomics, and protein interaction networks at population scale to study complex disease.
+- 🔬 Currently thinking about single-cell perturbation prediction and metabolic disease target discovery.
+- 🇩🇰 Based in Copenhagen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected repositories
+
+- [**SPACE**](https://github.com/deweihu96/SPACE) — cross-species protein embeddings, now part of STRING v12.0
+- [**net2rank**](https://github.com/larsjuhljensen/net2rank) — molecular maps of disease from omics data and network embeddings
+
+### Where to find me
+
+[Website](https://deweihu96.github.io) ·
+[Google Scholar](https://scholar.google.com/citations?user=deweihu96) ·
+[LinkedIn](https://www.linkedin.com/in/dewei-hu-65a717197/) ·
+[Email](mailto:dewei.hu@sund.ku.dk)
