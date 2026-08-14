@@ -10,8 +10,9 @@ PhD Fellow in Bioinformatics & Network Biology at the Novo Nordisk Foundation Ce
 
 ### Selected repositories
 
-- [**SPACE**](https://github.com/deweihu96/SPACE) — cross-species protein embeddings, now part of STRING v12.0
-- [**net2rank**](https://github.com/larsjuhljensen/net2rank) — molecular maps of disease from omics data and network embeddings
+- [**SPACE**](https://github.com/deweihu96/SPACE): cross-species protein embeddings, now part of STRING v12.0
+- [**net2rank**](https://github.com/larsjuhljensen/net2rank): molecular maps of disease from omics data and network embeddings
+- [**SLIM**](https://github.com/RasmussenLab/SLIM): a small linear model with STRING embeddings for virtual cell perturbation
 
 ### Where to find me
 
